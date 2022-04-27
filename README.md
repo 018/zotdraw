@@ -1,2 +1,7 @@
-# zotero-excalidraw-releases
-zotero插件，结合excalidraw。无限画布，无限空间。
+# zotero-excalidraw
+
+zotero-excalidraw是结合excalidraw的zotero插件，提供无限画布，无限空间，帮助用户梳理知识的联系。
+
+<img src="./assets/zotero-excalidraw.png" alt="image-20220427152313721" style="zoom:50%;" />
+
+更多信息，请访问 http://ze.018soft.com/ 。
